@@ -8,7 +8,7 @@ trigger:
 
 pool:
   vmImage: ubuntu-latest
-  name: "pool"
+  name: "Hosted Agent"
 
 variables:
   buildConfiguration: 'Release'
